@@ -1,0 +1,26 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": { "node": "10.x" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajclickomanic/QuizBot.git"
+  },
+  "author": "Viraj Dhimmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajclickomanic/QuizBot/issues"
+  },
+  "homepage": "https://github.com/virajclickomanic/QuizBot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "machaao": "^0.1.8"
+  }
+}
